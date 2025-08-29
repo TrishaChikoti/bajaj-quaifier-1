@@ -34,7 +34,7 @@ public class BajajApplication {
 
             Map<String, String> payload = Map.of(
                 "name",  "chikoti Trisha",
-                "regNo", "22bBCE7535",
+                "regNo", "22BCE7535",
                 "email", "trishachikoti@gmail.com"
             );
 
